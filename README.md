@@ -6,5 +6,16 @@
 - 💬 Ask me about: JavaScript, HTML/CSS
 - 📫 How to reach me: emilikaiman@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love being outside!
+- ⚡ Fun fact: I hiked from Mexico to South Lake Tahoe!
+
+## Technologies
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaiman&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Emilis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekaiman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
