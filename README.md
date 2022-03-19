@@ -9,7 +9,7 @@ I'm Emili a Software Engineer living in Denver, CO.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I hiked from Mexico to South Lake Tahoe!
 
-## Technologies
+
 
 
 [![Emilis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekaiman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
