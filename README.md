@@ -12,10 +12,5 @@ I'm Emili a Software Engineer living in Denver, CO.
 ## Technologies
 
 
----
-
-
-
-
 [![Emilis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekaiman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
