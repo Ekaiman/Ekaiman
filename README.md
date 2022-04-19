@@ -3,8 +3,8 @@
 I'm Emili a Software Engineer living in Denver, CO.
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning React and Cypress!
-- 💬 Ask me about: JavaScript, HTML/CSS
+- 🌱 I’m currently learning TypeScript!
+- 💬 Ask me about: React, Cypress, JavaScript, HTML/CSS
 - 📫 How to reach me: emilikaiman@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I hiked from Mexico to South Lake Tahoe!
