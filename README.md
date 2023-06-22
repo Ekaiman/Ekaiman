@@ -7,7 +7,7 @@ I'm Emili a Software Engineer living in Denver, CO.
 - 💬 Ask me about: React, Cypress, JavaScript, TypeScript, HTML/CSS
 - 📫 How to reach me: emilikaiman@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I hiked from Mexico to South Lake Tahoe!
+- ⚡ Fun fact: I hiked over 1,000 miles in 3 months from Mexico to South Lake Tahoe!
 
 
 
